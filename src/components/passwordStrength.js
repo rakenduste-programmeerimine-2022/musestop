@@ -1,5 +1,5 @@
 import React from "react";
-import "../passwordStrenght.css";
+import "../css/passwordStrenght.css";
 
 
 const regex = new RegExp("(?=.{8,})");
